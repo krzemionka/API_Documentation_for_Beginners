@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Chapter One/How-to-write-API-documentation.htm'],s:['1'],p:[['1',7],['more',0]]});
